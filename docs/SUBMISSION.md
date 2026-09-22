@@ -4,6 +4,9 @@
 **Plugin under test:** `e2m-rest-lab` (in this repository)
 **ACF:** Advanced Custom Fields PRO 6.8.5
 **Date run:** 22 September 2026
+**Video walkthrough:**
+[Part 1](https://www.loom.com/share/cadd9aabbdbb43b0bbfe136900cdb79c) ·
+[Part 2](https://www.loom.com/share/01ac5df480344e258e5aac393724a478)
 
 Every request below was executed against a live site. The full, unedited
 request/response pair for each one is in [`docs/captures/`](captures/), named by

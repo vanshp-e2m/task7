@@ -12,6 +12,10 @@ callback.
 **The write-up with every request and response is in
 [`docs/SUBMISSION.md`](docs/SUBMISSION.md).**
 
+**Walkthrough videos:**
+[Part 1](https://www.loom.com/share/cadd9aabbdbb43b0bbfe136900cdb79c) ·
+[Part 2](https://www.loom.com/share/01ac5df480344e258e5aac393724a478)
+
 ---
 
 ## What it demonstrates
