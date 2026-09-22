@@ -1,0 +1,18 @@
+# Secrets - never commit
+.env
+*.env
+!.env.example
+
+# Raw captured responses may contain tokens or nonces
+scripts/out/*.raw
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Dependencies
+node_modules/
+vendor/
